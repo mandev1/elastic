@@ -1,9 +1,3 @@
-
-
-
-
-
-Description-Full
 "2301" : "Logs AAA Authentication/Authorization/Accounting/fail-through"
 "2302" : "Logs TACACS+ server update, server group update and global default update"
 "2303" : "Logs RADIUS server update, server group update and global default update"
